@@ -1,0 +1,16 @@
+food = "Taquitos"
+
+is_delicious = true
+
+food = "Burrito"
+
+num2 = 2
+
+num7 = 7
+
+quotient = num7 / num2
+
+songs = ["Let it go", "Good Life", "Innerbloom"]
+song.shift
+
+food.length 
