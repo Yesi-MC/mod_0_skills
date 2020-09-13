@@ -1,16 +1,16 @@
-instance: pancakes
+## instance: pancakes
 
-attributes
-name: "Pancakes"
-ingredients: ["flour", "sugar", "milk"]
-is_ready: false
-temperature: "warm"
+# attributes
+1. name: "Pancakes"
+1. ingredients: ["flour", "sugar", "milk"]
+1. is_ready: false
+1. temperature: "warm"
 
 
-methods
-pancakes.name_change("Famous Stack") (this will change the name from "Pancakes"
+# methods
+1. pancakes.name_change("Famous Stack") (this will change the name from "Pancakes"
   to "Famous Stack")
-pancakes.add_ingredients("blueberries") (this will add "blueberries" to our  
+1. pancakes.add_ingredients("blueberries") (this will add "blueberries" to our  
   ingredients array)
-pancakes.cook (this will change `is_ready` from false to true)
-pancakes.check_temperature (this will return "warm")
+1. pancakes.cook (this will change `is_ready` from false to true)
+1. pancakes.check_temperature (this will return "warm")
